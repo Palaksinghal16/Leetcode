@@ -1,0 +1,8 @@
+// TC = O(NlogN)
+// Sc = O(1)
+
+class Solution {
+    public void sortColors(int[] nums) {
+        Arrays.sort(nums);
+    }
+}
